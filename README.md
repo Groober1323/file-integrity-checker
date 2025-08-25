@@ -18,5 +18,3 @@ C++ utility for computing SHA-256 hash of files with graphical file selection.
 1. Open `FileIntegrityChecker.sln` in Visual Studio
 2. Select Release configuration
 3. Build Solution (Ctrl+Shift+B)
-
-## Usage
